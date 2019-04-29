@@ -1,7 +1,7 @@
 import os
 import requests
 
-api_key = "AIzaSyBLAOZj2ULbWG6vMBQjcUw5_ZxLw453_Rw"
+api_key = ""
 url = 'https://data.cityofnewyork.us/resource/9wgk-ev5c.json?$limit=5000&$offset=0'
 
 try:
