@@ -17,6 +17,6 @@ class Spider(scrapy.Spider):
                 NAME_SELECTOR = 'td ::text'
                 extracted = dataSet.css(NAME_SELECTOR).extract()
                 if len(extracted) == 8:
-                    result = '{{\'Data\':{}, \'Location\':{}, \'Vehicles\':{}, \'Drunken persons\':{}, \'Fatalites\':{}, \'Persons\':{}, \'Pedestrians\':{}}}\n'.format(
+                    result = '{{\'Date\':{}, \'Location\':{}, \'Vehicles\':{}, \'Drunken persons\':{}, \'Fatalites\':{}, \'Persons\':{}, \'Pedestrians\':{}}}\n'.format(
                         extracted[1],extracted[2],extracted[3],extracted[4],extracted[5],extracted[6],extracted[7])
                     log.write(result)
