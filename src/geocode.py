@@ -2,7 +2,7 @@ import csv
 import os
 import requests
 
-api_key = "AIzaSyDzZzT8LEuAmLyunlhBD6BWqBeZ0Lyl5as"
+api_key = ""
 
 try:
     os.remove("geocode_output.txt")
