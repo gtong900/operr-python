@@ -1,0 +1,940 @@
+{'Data':Feb 17, 2017 02:10 PM, 'Location':Sr-4 Paddock Rd, Rossmore Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 18, 2017 12:45 AM, 'Location':Cr-659 Vine St, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Mar 3, 2017 11:05 AM, 'Location':Us-22 8th St, Cr-665 Sycamore St, 'Vehicles':4, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Mar 28, 2017 10:46 AM, 'Location':Winton Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 10, 2017 02:05 AM, 'Location':Center Hill Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':2, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 27, 2017 04:32 PM, 'Location':Winton Rd, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Apr 12, 2017 09:58 AM, 'Location':Sr-561 Observatory Ave, Cr-608 Delta Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':May 6, 2017 02:31 AM, 'Location':Montana Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 6, 2017 03:20 PM, 'Location':Sr-50 River Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':May 26, 2017 10:24 PM, 'Location':Us-42 Reading Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Aug 27, 2017 11:20 PM, 'Location':Cr-605 William Howard Taft Rd, Cr-679 Collins Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 19, 2017 10:44 PM, 'Location':Western Hills Via Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Sep 9, 2017 12:45 AM, 'Location':Sr-125 Beechmont Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 20, 2017 00:18 AM, 'Location':Cr-142 Noth Bend Rd, 'Vehicles':3, 'Drunken persons':1, 'Fatalites':3, 'Persons':3, 'Pedestrians':-}
+{'Data':Nov 26, 2017 06:36 AM, 'Location':Beekman St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Nov 19, 2017 00:58 AM, 'Location':Cr-457 Harrison Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':2, 'Persons':3, 'Pedestrians':-}
+{'Data':Sep 24, 2017 12:04 AM, 'Location':Cr-612 Madison Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Nov 15, 2017 11:48 PM, 'Location':Cr-644 Clifton Ave, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 9, 2017 11:21 AM, 'Location':Cr-716 Warsaw Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Dec 28, 2017 04:57 PM, 'Location':Dutch Colony Dr, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':Nov 7, 2017 06:49 AM, 'Location':Warsaw Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Dec 22, 2017 06:51 AM, 'Location':Reading Rd, Whittier St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Jan 27, 2016 07:40 PM, 'Location':Sr-561 Edwards Rd, Cr-906 Erie Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':2}
+{'Data':Feb 17, 2016 03:00 AM, 'Location':I-71, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 19, 2016 11:11 PM, 'Location':Us-42 Reading Rd, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 11, 2016 11:10 PM, 'Location':Hamilton Ave, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 21, 2016 02:22 AM, 'Location':Hopple St, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 20, 2016 09:33 PM, 'Location':I-275, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 2, 2016 07:05 AM, 'Location':Este Ave, Unknown, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Apr 14, 2016 03:36 PM, 'Location':Us-27 Colerain Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 5, 2016 11:39 AM, 'Location':Columbia Pkwy, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':May 1, 2016 06:06 AM, 'Location':Winton Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 1, 2016 08:20 PM, 'Location':Us-42 Reading Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 3, 2016 05:55 AM, 'Location':Cr-644 Clifton Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 10, 2016 09:53 PM, 'Location':Us-50 River Rd, Southside Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 24, 2016 01:58 AM, 'Location':Carll St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jun 3, 2016 09:58 PM, 'Location':Kellogg Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 14, 2016 10:29 PM, 'Location':Glenway Ave, 'Vehicles':3, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 17, 2016 00:45 AM, 'Location':Reading Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Jul 5, 2016 09:35 PM, 'Location':Cr-612 Madison Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 29, 2016 01:05 PM, 'Location':Cr-620 Queen City Ave, Cr-457 Harrison Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':2}
+{'Data':Jul 14, 2016 10:53 AM, 'Location':I-75 On Ramp, Cr-457 Western Hill Viaduct, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Aug 11, 2016 10:40 PM, 'Location':Us-52 Riverside Dr, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 25, 2016 02:49 AM, 'Location':Cr-696 Wasson Ave, Michigan Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 2, 2016 07:55 PM, 'Location':Clifton Ave, Martin Luther King Dr, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 8, 2016 05:43 PM, 'Location':Hamilton Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Sep 24, 2016 06:00 PM, 'Location':Cr-605 Mcmillan St, Kenton St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 24, 2016 05:55 PM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 30, 2016 01:20 AM, 'Location':Cr-359 Corbly Rd, Rainbow Lane, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Nov 1, 2016 07:01 PM, 'Location':Cr-663 Lincoln Ave, Winslow Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 26, 2016 00:17 AM, 'Location':Earlscourt View, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 21, 2016 02:49 PM, 'Location':Cr-612 Madison Rd, Vandercar Way, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Oct 11, 2016 08:07 PM, 'Location':Central Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Jan 18, 2015 10:52 PM, 'Location':Reading Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Jan 28, 2015 10:42 AM, 'Location':Harrison Ave., Epworth Ave., 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Mar 13, 2015 06:08 PM, 'Location':I-75, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Mar 28, 2015 01:05 PM, 'Location':Liberty St., Lockhurst Ln., 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 19, 2015 03:40 PM, 'Location':Us-42 Reading Rd., Northcut Av, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 16, 2015 08:50 PM, 'Location':Langdon Farm Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 20, 2015 00:40 AM, 'Location':Seymour Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 19, 2015 05:37 AM, 'Location':Us-127, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 9, 2015 01:13 PM, 'Location':Cr-627 Baltimore Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 26, 2015 12:40 AM, 'Location':Madison Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 5, 2015 08:40 AM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 2, 2015 00:40 AM, 'Location':Cr-163 Hopple St, Beekman St, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Aug 15, 2015 02:10 AM, 'Location':Cr-706 Fairpark Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 17, 2015 02:00 AM, 'Location':I-74, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 12, 2015 10:54 PM, 'Location':Seymour Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 7, 2015 03:05 AM, 'Location':Delhi Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Sep 5, 2015 06:58 AM, 'Location':I-275, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 4, 2015 02:36 PM, 'Location':Sutter Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 30, 2015 09:51 PM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':1}
+{'Data':Oct 16, 2015 02:40 PM, 'Location':Spring Grove Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 16, 2015 12:55 AM, 'Location':I-471 On Ramp, Us-50, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 29, 2015 07:22 PM, 'Location':Westwood Northern Blvd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Dec 2, 2015 02:19 AM, 'Location':Reading Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':2, 'Persons':4, 'Pedestrians':-}
+{'Data':Dec 6, 2015 08:54 AM, 'Location':Cr-733 Dorchester Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Dec 14, 2015 03:23 PM, 'Location':Cr-713 8th St, Enright Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 20, 2014 10:07 PM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':2, 'Persons':3, 'Pedestrians':-}
+{'Data':Mar 9, 2014 05:16 PM, 'Location':I-275, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Jan 16, 2014 03:05 PM, 'Location':Vine St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':2}
+{'Data':Mar 24, 2014 02:38 AM, 'Location':2031 Harrison Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 3, 2014 02:31 AM, 'Location':Columbia Parkway, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 12, 2014 12:35 AM, 'Location':I-74, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Apr 24, 2014 03:45 PM, 'Location':Reading Rd., 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 10, 2014 03:35 PM, 'Location':Ridge Ave, Brotherton Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Mar 25, 2014 03:39 PM, 'Location':Martin Luther King Dr, 'Vehicles':3, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':May 30, 2014 11:07 AM, 'Location':Werk Rd., 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':May 31, 2014 09:42 PM, 'Location':Us-127 Clay Wade Bailey Hwy, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Jun 29, 2014 02:22 AM, 'Location':Reading Rd., Seymour Ave, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':May 30, 2014 11:45 AM, 'Location':Pete Rose Way E, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Jun 27, 2014 03:28 PM, 'Location':Ridge Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 25, 2014 12:51 AM, 'Location':Vine St, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 26, 2014 03:22 PM, 'Location':I-75, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Oct 24, 2014 08:00 AM, 'Location':Warsaw Ave, Woodlawn Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Oct 3, 2014 07:00 AM, 'Location':W North Bend Rd, Argus Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Nov 11, 2014 09:05 PM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 7, 2014 12:55 AM, 'Location':Westwood Northern Blvd, Mchenry Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Dec 22, 2014 11:53 PM, 'Location':8th St., 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Feb 13, 2013 02:15 PM, 'Location':Hopple St, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 24, 2013 02:04 AM, 'Location':I-71, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':1}
+{'Data':Jun 23, 2013 07:08 PM, 'Location':I-71, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 17, 2013 07:45 AM, 'Location':W Fork Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 24, 2013 08:00 PM, 'Location':Hamilton Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':May 31, 2013 05:54 PM, 'Location':I-471, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 20, 2013 03:52 PM, 'Location':Mt Adams Dr, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 17, 2013 11:37 PM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 19, 2013 10:05 AM, 'Location':Colerain Ave, Goldenrod Dr, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Sep 7, 2013 00:45 AM, 'Location':River Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 14, 2013 07:30 PM, 'Location':Columbia Parkway, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':9, 'Pedestrians':-}
+{'Data':Sep 29, 2013 05:11 AM, 'Location':I-75, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Sep 30, 2013 11:54 PM, 'Location':Kirby Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':2, 'Persons':3, 'Pedestrians':-}
+{'Data':Nov 10, 2013 07:00 PM, 'Location':Covedale Ave, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':2, 'Persons':4, 'Pedestrians':-}
+{'Data':Dec 10, 2013 05:58 PM, 'Location':Central Parkway, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Dec 25, 2013 00:10 AM, 'Location':Montgomery Rd, 'Vehicles':3, 'Drunken persons':3, 'Fatalites':2, 'Persons':3, 'Pedestrians':-}
+{'Data':Feb 4, 2012 00:12 AM, 'Location':Westwood Northern Blvd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jan 6, 2012 09:27 PM, 'Location':Roe St, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Mar 14, 2012 12:18 AM, 'Location':Us-50 River Rd, Kibby Ln, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Mar 17, 2012 08:10 PM, 'Location':Kellogg Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 19, 2012 06:30 AM, 'Location':Clifton Ave, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 13, 2012 11:04 PM, 'Location':Kellogg Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Mar 16, 2012 07:15 AM, 'Location':Lafeuille Ave, Westbrook Dr, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':May 13, 2012 04:55 PM, 'Location':W North Bend Rd, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':11, 'Pedestrians':-}
+{'Data':Mar 21, 2012 06:20 PM, 'Location':Cr-717 Fairbanks Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Jul 13, 2012 08:40 PM, 'Location':Columbia Parkway, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 3, 2012 09:32 PM, 'Location':Us-27 Central Parkway, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':May 29, 2012 02:35 PM, 'Location':Sr-32 Beechmont Ave, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 29, 2012 02:53 AM, 'Location':Vine St, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jun 11, 2012 07:23 AM, 'Location':I-75, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 28, 2012 06:10 AM, 'Location':Wilmer Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Sep 12, 2012 12:33 AM, 'Location':Us-27 Colerain Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Sep 11, 2012 08:29 PM, 'Location':California Ave, Oakdale Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Sep 23, 2012 03:15 AM, 'Location':Us-42 Reading Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Oct 12, 2012 02:00 AM, 'Location':Madison Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 19, 2012 06:53 PM, 'Location':Kirby Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':2, 'Persons':3, 'Pedestrians':-}
+{'Data':Oct 16, 2012 00:58 AM, 'Location':South Side Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 22, 2012 07:00 PM, 'Location':Cr-612 Madison Rd, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 2, 2012 10:30 PM, 'Location':Harrison Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':1}
+{'Data':Oct 8, 2012 04:30 AM, 'Location':Mchenry Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':3}
+{'Data':Jan 9, 2011 10:00 PM, 'Location':Victory Parkway, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 16, 2011 00:50 AM, 'Location':Sycamore St, Sr-3, 'Vehicles':3, 'Drunken persons':1, 'Fatalites':2, 'Persons':6, 'Pedestrians':-}
+{'Data':Apr 2, 2011 06:47 AM, 'Location':Westwood Ave, Grand Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':2}
+{'Data':Apr 22, 2011 05:00 PM, 'Location':Beekman St, Sutter Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':May 29, 2011 10:35 AM, 'Location':I-471, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 10, 2011 03:15 PM, 'Location':Este Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 30, 2011 02:43 PM, 'Location':West Fork Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':Jul 10, 2011 02:52 AM, 'Location':Este Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 1, 2011 02:35 AM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 17, 2011 05:25 AM, 'Location':Us-27, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Aug 11, 2011 00:05 AM, 'Location':I-75, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Aug 23, 2011 02:15 PM, 'Location':W North Bend Rd, Banning Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 10, 2011 02:50 PM, 'Location':Sr-264, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Sep 25, 2011 04:38 AM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 20, 2011 11:10 AM, 'Location':I-71, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Dec 3, 2011 03:49 PM, 'Location':Spring Lawn Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Nov 19, 2011 10:54 PM, 'Location':I-75, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':Apr 24, 2010 09:10 PM, 'Location':Harrison-Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 10, 2010 09:38 AM, 'Location':Us-50, Kemper-Lane, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 8, 2010 12:30 AM, 'Location':Sr-126, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 23, 2010 07:00 AM, 'Location':Us-42, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 17, 2010 02:27 AM, 'Location':I-75, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 29, 2010 05:53 AM, 'Location':Hokel Lane, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 16, 2010 11:02 PM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 3, 2010 02:25 PM, 'Location':Sr-264, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Oct 2, 2010 09:15 PM, 'Location':Madison Rd, Markbreit Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Aug 11, 2010 09:32 AM, 'Location':Auburn Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Oct 11, 2010 01:00 PM, 'Location':Winton Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Dec 25, 2010 07:15 AM, 'Location':Anthony-Wayne-Ave, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Nov 28, 2010 05:20 AM, 'Location':Us-52, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 21, 2009 04:18 PM, 'Location':Martin-Luther-King, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jan 10, 2009 06:26 AM, 'Location':Gracely Dr, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jan 30, 2009 10:30 AM, 'Location':Westwood Northern, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 11, 2009 01:23 AM, 'Location':I-75, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 4, 2009 01:26 PM, 'Location':I-71, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 12, 2009 08:42 PM, 'Location':Queen City Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 3, 2009 01:50 AM, 'Location':Duck Creek Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 16, 2009 04:29 PM, 'Location':Hopple-St, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 3, 2009 11:48 AM, 'Location':Us-52, 'Vehicles':4, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Jul 20, 2009 05:49 PM, 'Location':Western Hills Viaduc, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 29, 2009 09:30 PM, 'Location':I-74, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 25, 2009 11:28 PM, 'Location':Us-42, Joseph-St, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 16, 2009 12:46 AM, 'Location':Winton-Rd, Gray-Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Sep 23, 2009 00:50 AM, 'Location':Queen-City-Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 26, 2009 06:17 PM, 'Location':Clarion Ave, Dana Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':2}
+{'Data':Oct 8, 2009 01:55 PM, 'Location':Clifton-Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 20, 2009 12:45 AM, 'Location':Guerley Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Nov 28, 2009 01:40 PM, 'Location':Westwood-Ave, Grand-Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':7, 'Pedestrians':1}
+{'Data':Jan 5, 2008 07:00 PM, 'Location':Fairbanks-Ave, Bassett-Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':Jan 7, 2008 12:58 AM, 'Location':Us-50, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Jan 27, 2008 08:00 PM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 16, 2008 04:15 PM, 'Location':Delta-Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 15, 2008 06:10 PM, 'Location':Este Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 21, 2008 04:50 AM, 'Location':Marburg Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jun 30, 2008 09:20 AM, 'Location':I-74, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 6, 2008 02:53 AM, 'Location':Us-42, 'Vehicles':2, 'Drunken persons':3, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Jul 9, 2008 11:45 AM, 'Location':I-71, 'Vehicles':2, 'Drunken persons':2, 'Fatalites':2, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 18, 2008 02:54 AM, 'Location':I-75, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 28, 2008 05:15 PM, 'Location':Shady Lane, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 7, 2008 10:45 PM, 'Location':Us-52, 'Vehicles':3, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jul 13, 2008 03:12 PM, 'Location':I-471, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 16, 2008 02:47 PM, 'Location':Us-42, Barry Lane, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 6, 2008 06:25 AM, 'Location':Vine St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Aug 3, 2008 05:13 PM, 'Location':Hopple-St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 22, 2008 01:04 AM, 'Location':Us-42, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Aug 27, 2008 08:15 PM, 'Location':I-71, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Aug 31, 2008 04:00 AM, 'Location':Este Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 23, 2008 07:01 PM, 'Location':Vine-St, E-Sixth-St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Nov 3, 2008 02:13 AM, 'Location':Victory Pkwy, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Nov 6, 2008 06:30 AM, 'Location':I-71, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':2, 'Persons':3, 'Pedestrians':-}
+{'Data':Dec 6, 2008 12:46 AM, 'Location':Us-50, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Dec 23, 2008 03:45 PM, 'Location':Martin Luther Dr, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':7, 'Pedestrians':-}
+{'Data':Dec 4, 2008 06:48 AM, 'Location':Madison-Rd, Anderson-Place, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jan 28, 2007 10:32 AM, 'Location':Cleves-Warsaw-Pike, Covedale-Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 26, 2007 01:15 AM, 'Location':Duck Creek Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 5, 2007 08:45 PM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 8, 2007 12:36 AM, 'Location':Spring Grove Ave, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Feb 20, 2007 10:50 PM, 'Location':Us-42, 'Vehicles':2, 'Drunken persons':2, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Mar 18, 2007 07:20 PM, 'Location':Langdon Farm Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 12, 2007 11:48 PM, 'Location':Oberlin Av, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Mar 16, 2007 10:00 AM, 'Location':Winton-Rd, Gray-Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 27, 2007 08:00 AM, 'Location':Us-50, Thorton Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Apr 29, 2007 11:30 PM, 'Location':E-Galbraith-Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 2, 2007 05:30 PM, 'Location':E-Galbraith-Rd, Burns-Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':8, 'Pedestrians':-}
+{'Data':Jul 7, 2007 03:44 PM, 'Location':W-Liberty-St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jul 4, 2007 11:00 PM, 'Location':Vernon Pl, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jul 5, 2007 09:09 AM, 'Location':I-74, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 21, 2007 05:49 PM, 'Location':Harrison Ave, Biegler St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 19, 2007 06:26 AM, 'Location':Us-50, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 13, 2007 08:59 PM, 'Location':E 4th St, Walnut St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Sep 9, 2007 01:18 AM, 'Location':I-75, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Sep 12, 2007 12:25 AM, 'Location':9, Central, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Sep 19, 2007 11:22 PM, 'Location':Beekman, Cummins, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 3, 2007 08:31 PM, 'Location':Us-22, Dauner-Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Oct 27, 2007 00:35 AM, 'Location':West-Fork-Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Nov 9, 2007 02:56 AM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 15, 2007 07:54 PM, 'Location':Us-42, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 29, 2007 11:40 AM, 'Location':I-74, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 14, 2007 05:59 PM, 'Location':Us-50, 'Vehicles':3, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Dec 22, 2007 03:14 AM, 'Location':Pippin Rd, 'Vehicles':2, 'Drunken persons':2, 'Fatalites':2, 'Persons':3, 'Pedestrians':-}
+{'Data':Dec 8, 2007 12:22 AM, 'Location':Dana Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 25, 2007 03:40 AM, 'Location':Us-42, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':2, 'Persons':3, 'Pedestrians':-}
+{'Data':Jan 3, 2006 11:58 AM, 'Location':Us-50, Burns-Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Feb 16, 2006 04:49 AM, 'Location':Winchell-Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Mar 4, 2006 03:30 AM, 'Location':Sr-126, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Mar 5, 2006 02:35 AM, 'Location':Westwood Ave, Grand Ave, 'Vehicles':2, 'Drunken persons':3, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Mar 20, 2006 04:24 PM, 'Location':Elberon-Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':Apr 28, 2006 07:45 PM, 'Location':Us-129, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 4, 2006 01:00 AM, 'Location':Us-52, Watson St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':2, 'Persons':2, 'Pedestrians':-}
+{'Data':May 24, 2006 10:15 AM, 'Location':Us-22, W 7th St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jul 1, 2006 02:55 PM, 'Location':William Howard Taft, Cleinview Ave, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Jun 26, 2006 04:32 PM, 'Location':Harrison Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jul 24, 2006 05:30 PM, 'Location':Us-22, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jul 19, 2006 04:35 PM, 'Location':I-75, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Jul 23, 2006 06:20 PM, 'Location':W 8th St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 27, 2006 00:12 AM, 'Location':Fairbanks Ave, 'Vehicles':4, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 18, 2006 01:49 AM, 'Location':Vine St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 7, 2006 06:10 AM, 'Location':Us-50, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 3, 2006 05:17 AM, 'Location':Us-50, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Sep 10, 2006 10:22 AM, 'Location':Spring Grove Ave, Meeker St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 28, 2006 02:23 AM, 'Location':8th St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 25, 2006 03:02 PM, 'Location':Sr-264, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 9, 2006 06:47 PM, 'Location':Avalon St, Oakmont St, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 17, 2006 02:35 AM, 'Location':I-471, I-75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 16, 2006 08:47 PM, 'Location':I-75, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':7, 'Pedestrians':-}
+{'Data':Nov 7, 2006 01:25 PM, 'Location':Sr-127, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 4, 2006 01:50 AM, 'Location':I-75, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':2, 'Persons':3, 'Pedestrians':-}
+{'Data':Dec 14, 2006 01:25 AM, 'Location':I-71, Reading Rd, 'Vehicles':2, 'Drunken persons':2, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Dec 26, 2006 07:35 AM, 'Location':Hamilton-Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 7, 2006 10:30 AM, 'Location':Victory Parkway, Calvin Cliff Lane, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':Dec 26, 2006 08:17 PM, 'Location':Este Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 7, 2005 06:48 AM, 'Location':I-75, Western Hils Viaduct, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':Jan 2, 2005 11:34 PM, 'Location':I-75, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 13, 2005 02:25 AM, 'Location':Spring-Grove-Ave, 'Vehicles':3, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Mar 7, 2005 02:17 AM, 'Location':I-75, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 19, 2005 08:10 AM, 'Location':Markbreit-Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jan 31, 2005 01:37 AM, 'Location':I-71, Fredonia Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 20, 2005 11:05 AM, 'Location':I-75, Galbraith Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 21, 2005 01:35 AM, 'Location':Anthony-Wayne-Ave, 'Vehicles':2, 'Drunken persons':2, 'Fatalites':2, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 22, 2005 10:22 PM, 'Location':I-75, I-74, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 2, 2005 03:08 PM, 'Location':Plainville-Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Mar 31, 2005 09:50 PM, 'Location':Us-42, Victoria Parkway, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Apr 9, 2005 02:23 AM, 'Location':I-75, 6th St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':May 27, 2005 07:45 AM, 'Location':Mitchell-Ave, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':May 1, 2005 10:10 PM, 'Location':Este Ave, Kings Run Ct, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':May 5, 2005 08:13 AM, 'Location':Us-22, Robinson Rd, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jun 10, 2005 09:30 AM, 'Location':Reading Rd, Losantiville Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jun 20, 2005 05:46 PM, 'Location':Westwood Northern, Sutter Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jun 24, 2005 09:30 AM, 'Location':W Liberty, Winchell Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 8, 2005 09:07 PM, 'Location':Glenway Ave, Wilder Ave, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Jul 10, 2005 02:28 AM, 'Location':Bank St, Colerain Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jul 15, 2005 02:35 AM, 'Location':I-75, Red Bank, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 10, 2005 09:25 PM, 'Location':Spring-Grove-Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 27, 2005 03:59 AM, 'Location':Us-50, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 7, 2005 11:00 PM, 'Location':Duck-Creek-Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 10, 2005 03:58 PM, 'Location':I-75, 'Vehicles':4, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Sep 15, 2005 03:43 PM, 'Location':I-71, Us-42, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Nov 20, 2005 02:55 AM, 'Location':Madison-Rd, Taylor-Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 23, 2005 03:59 PM, 'Location':Montana Ave, Farrell Dr, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 23, 2005 06:51 AM, 'Location':Eastern Ave, Delta Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 8, 2005 12:08 AM, 'Location':Montana Ave, Quante Rd, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Dec 24, 2005 02:28 AM, 'Location':Us-22, 'Vehicles':4, 'Drunken persons':1, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Dec 30, 2005 08:11 PM, 'Location':Coverdale Ave, Ralph Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':Jan 3, 2004 05:49 PM, 'Location':Us-52, Salem-Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jan 4, 2004 01:35 AM, 'Location':Us-50, Sr-264, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 29, 2004 03:53 AM, 'Location':Covedale-Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Mar 14, 2004 01:48 PM, 'Location':Sr-562, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 16, 2004 09:54 PM, 'Location':Clifton Ave, Vine St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 9, 2004 05:31 PM, 'Location':Race, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Apr 3, 2004 02:19 AM, 'Location':Rapid-Run-Pike, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 14, 2004 03:37 PM, 'Location':Vine-St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':2, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 13, 2004 01:06 PM, 'Location':Us-50, Burns-Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Apr 11, 2004 01:03 AM, 'Location':I-75, I-71, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':May 10, 2004 03:50 PM, 'Location':Nassau-St, Alpin-Place, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':May 22, 2004 11:42 AM, 'Location':Harrison-Ave, Adler-St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 15, 2004 10:05 PM, 'Location':Langdon-Farm-Rd, Wiehe-Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 30, 2004 02:20 AM, 'Location':I-75, Us-52, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 16, 2004 05:08 PM, 'Location':Daleview, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 18, 2004 04:55 PM, 'Location':Taylor-Rd, Powner-Rd, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 19, 2004 05:09 PM, 'Location':Sr-264, Midway Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Aug 2, 2004 12:06 AM, 'Location':Vine St, Fair Park Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':2, 'Persons':4, 'Pedestrians':-}
+{'Data':Aug 12, 2004 11:05 PM, 'Location':Ebenzer, Louese, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 28, 2004 10:10 AM, 'Location':Paxton Ave, Wasson Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Sep 10, 2004 12:10 AM, 'Location':Banning, Eiler Lane, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 7, 2004 03:15 PM, 'Location':Us-27, High Forest Ln, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':2, 'Persons':4, 'Pedestrians':-}
+{'Data':Nov 12, 2004 09:15 PM, 'Location':Sr-561, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Nov 13, 2004 00:25 AM, 'Location':Us-42, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Nov 18, 2004 12:21 AM, 'Location':Highland Ave, Ridge Ave, 'Vehicles':4, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Oct 31, 2004 07:07 PM, 'Location':E Martin Luther King, Jefferson Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':3, 'Persons':5, 'Pedestrians':-}
+{'Data':Dec 16, 2004 01:45 PM, 'Location':Us-50, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 19, 2004 09:00 PM, 'Location':5-Mile-Rd, State-Rd, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Dec 18, 2004 06:49 AM, 'Location':Madison-Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Dec 27, 2004 05:50 PM, 'Location':W 8th St, Harris Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':Dec 31, 2004 11:38 PM, 'Location':Us-27, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jan 6, 2003 11:10 AM, 'Location':Columbia-Pkwy, 'Vehicles':5, 'Drunken persons':-, 'Fatalites':2, 'Persons':7, 'Pedestrians':-}
+{'Data':Jan 10, 2003 10:52 PM, 'Location':West-Liberty-St, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Jan 24, 2003 00:01 AM, 'Location':I-75, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jan 30, 2003 08:25 PM, 'Location':Norwood, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 20, 2003 07:05 AM, 'Location':I-275, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 16, 2003 02:35 AM, 'Location':I-71, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Mar 26, 2003 09:35 PM, 'Location':William-Howard-Ta-Rd, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Mar 18, 2003 06:11 AM, 'Location':I-71, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Mar 20, 2003 06:08 AM, 'Location':Lafeuille Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 3, 2003 02:57 AM, 'Location':Forest-Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 11, 2003 08:26 PM, 'Location':Gracely Dr, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 8, 2003 03:21 AM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':May 31, 2003 07:52 AM, 'Location':I-74, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':3, 'Persons':4, 'Pedestrians':-}
+{'Data':Jun 5, 2003 05:35 PM, 'Location':Iliff Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 22, 2003 00:51 AM, 'Location':Hanley-Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Jul 5, 2003 06:04 PM, 'Location':130, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 22, 2003 11:42 PM, 'Location':I-71, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 26, 2003 01:28 AM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 4, 2003 09:41 AM, 'Location':I-471, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 21, 2003 08:22 AM, 'Location':Bender-Rd, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 15, 2003 12:35 AM, 'Location':6th-St, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 14, 2003 09:35 AM, 'Location':Vine St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':Aug 22, 2003 07:29 AM, 'Location':River Rd, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Sep 9, 2003 10:45 AM, 'Location':Glenway Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 27, 2003 00:39 AM, 'Location':Fairmount-Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Aug 19, 2003 10:05 PM, 'Location':Winchell-Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 16, 2003 07:25 AM, 'Location':Reading Road, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':Aug 25, 2003 11:55 AM, 'Location':Norwood Lateral, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 2, 2003 05:10 PM, 'Location':Elm St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Nov 6, 2003 12:37 AM, 'Location':Us-27, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Nov 13, 2003 02:20 AM, 'Location':Dana-Ave, 'Vehicles':3, 'Drunken persons':3, 'Fatalites':1, 'Persons':8, 'Pedestrians':-}
+{'Data':Nov 15, 2003 11:35 AM, 'Location':Groesbeck Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 22, 2003 12:50 AM, 'Location':Beechgrove Ln, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':2, 'Persons':3, 'Pedestrians':2}
+{'Data':Dec 5, 2003 03:53 PM, 'Location':Mehring Way, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 18, 2003 06:53 PM, 'Location':North-Bend-Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Dec 26, 2003 00:40 AM, 'Location':Martin-Luther-King, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':Jan 12, 2002 02:15 AM, 'Location':Crawford-Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jan 13, 2002 02:47 PM, 'Location':Beechmont-Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 28, 2002 07:18 AM, 'Location':I-75, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 28, 2002 09:38 PM, 'Location':Glenway-Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 1, 2002 06:00 PM, 'Location':Central-Py, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 7, 2002 02:40 PM, 'Location':Old Ludlow Av, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Mar 1, 2002 09:40 AM, 'Location':I-75, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 6, 2002 08:38 AM, 'Location':Red-Bank-Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Apr 8, 2002 02:54 AM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 12, 2002 02:36 AM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 27, 2002 02:08 AM, 'Location':Montana-Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Apr 30, 2002 04:42 PM, 'Location':Reading-Rd., 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':May 4, 2002 10:45 PM, 'Location':Erie-Ave, 'Vehicles':2, 'Drunken persons':2, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':May 5, 2002 12:40 AM, 'Location':W-North-Bend-Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':May 31, 2002 06:55 PM, 'Location':Wehrman-Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jun 15, 2002 10:48 AM, 'Location':W Mcmillian St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 25, 2002 05:15 PM, 'Location':Hamilton Ave, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':8, 'Pedestrians':-}
+{'Data':Jul 7, 2002 05:05 PM, 'Location':Queen City Ave, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 27, 2002 04:31 PM, 'Location':I-74, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 17, 2002 03:15 AM, 'Location':Reading-Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 7, 2002 08:30 AM, 'Location':River Rd, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Sep 16, 2002 02:55 PM, 'Location':Beechmont Avenue, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':2, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 26, 2002 10:00 AM, 'Location':Columbia Parkway, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Oct 29, 2002 06:10 PM, 'Location':Reading Road, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Nov 6, 2002 09:25 PM, 'Location':Mcmillan-St, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Nov 11, 2002 09:57 PM, 'Location':Madison-Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':Nov 24, 2002 01:43 AM, 'Location':Eastern Av, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 3, 2002 11:07 AM, 'Location':Reading-Road, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 29, 2002 06:40 AM, 'Location':Queen City Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 3, 2002 00:16 AM, 'Location':I-71, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 6, 2002 02:29 AM, 'Location':Mcmillan St, 'Vehicles':2, 'Drunken persons':2, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Dec 22, 2002 00:50 AM, 'Location':Marshall-Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':2, 'Persons':4, 'Pedestrians':-}
+{'Data':Dec 20, 2002 04:15 PM, 'Location':Corbly-St, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 18, 2002 12:23 AM, 'Location':Eastern Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Dec 20, 2002 11:05 PM, 'Location':Hawthorne Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 23, 2002 05:33 PM, 'Location':Reading-Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 30, 2002 03:45 AM, 'Location':Victory-Py, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Nov 23, 2002 10:05 PM, 'Location':Western-Hills-Via, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Jun 9, 2001 01:54 PM, 'Location':Hutchins Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 29, 2001 10:34 PM, 'Location':Mcmillian St, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 25, 2001 01:41 PM, 'Location':Losantiville, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':May 4, 2001 11:22 PM, 'Location':Queen City Ave, 'Vehicles':3, 'Drunken persons':1, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Jul 21, 2001 10:57 PM, 'Location':Eastern Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 23, 2001 01:50 PM, 'Location':4th Street, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':2}
+{'Data':Jul 22, 2001 02:20 AM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 18, 2001 10:55 PM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':3, 'Persons':4, 'Pedestrians':-}
+{'Data':Oct 24, 2001 01:44 PM, 'Location':Madison-Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 22, 2001 02:30 AM, 'Location':Eastern-Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 12, 2001 06:47 PM, 'Location':Ludlow-Ave, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':Aug 15, 2001 03:42 PM, 'Location':Columbia-Pl, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Mar 6, 2001 05:20 PM, 'Location':Wyoming-Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 11, 2001 06:02 PM, 'Location':I-75, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Sep 30, 2001 04:35 PM, 'Location':Western-Hills, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Sep 28, 2001 10:59 AM, 'Location':Sr-264, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 1, 2001 07:06 AM, 'Location':Us-27, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Nov 2, 2001 05:35 PM, 'Location':Central-Py, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 15, 2001 11:09 AM, 'Location':Argus-Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Nov 18, 2001 11:42 AM, 'Location':W-2nd-Street, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':8, 'Pedestrians':6}
+{'Data':Dec 6, 2001 10:32 AM, 'Location':W-Central-Parkway, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Dec 21, 2001 06:30 PM, 'Location':Este-Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 24, 2001 02:47 AM, 'Location':Columbia-Parkway, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jan 5, 2000 09:05 PM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':Feb 19, 2000 05:10 PM, 'Location':Highland Dr, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 20, 2000 00:15 AM, 'Location':Colerain Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 30, 2000 05:15 PM, 'Location':Reading   Rd, 'Vehicles':3, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Feb 13, 2000 12:52 AM, 'Location':I-75, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 18, 2000 04:40 PM, 'Location':Winton Road, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Feb 19, 2000 02:21 AM, 'Location':Banning Road, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jun 21, 2000 12:47 AM, 'Location':Millcreek Road, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':Jun 19, 2000 08:28 PM, 'Location':E 9th St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jul 1, 2000 06:33 PM, 'Location':Reading Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jul 3, 2000 07:45 AM, 'Location':Sr-562, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 23, 2000 08:58 PM, 'Location':Blair Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jun 22, 2000 01:58 PM, 'Location':Waverly Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':8, 'Pedestrians':-}
+{'Data':Jun 11, 2000 05:12 AM, 'Location':Central   Pky, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 7, 2000 03:16 PM, 'Location':Colerain   Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 25, 2000 11:58 AM, 'Location':I-75, 'Vehicles':3, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Dec 5, 2000 02:57 AM, 'Location':Vine    St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 7, 2000 09:33 PM, 'Location':Harrison   Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Oct 23, 2000 08:25 PM, 'Location':Harrison Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 27, 2000 02:30 AM, 'Location':Langdon Farm Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 29, 2000 02:35 PM, 'Location':Harvey Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 31, 2000 11:23 AM, 'Location':Mchenry Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 18, 2000 08:15 PM, 'Location':I-75, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':1}
+{'Data':Nov 26, 2000 03:45 AM, 'Location':Columbia Pkwy, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Feb 12, 1999 10:30 PM, 'Location':I-74, 'Vehicles':4, 'Drunken persons':1, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':Feb 3, 1999 01:05 PM, 'Location':Dana Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 17, 1999 03:35 AM, 'Location':Elberon   Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Mar 27, 1999 02:44 AM, 'Location':I-275, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':May 13, 1999 04:55 PM, 'Location':State   Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':9, 'Pedestrians':-}
+{'Data':May 25, 1999 02:10 PM, 'Location':Sr-562, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 9, 1999 00:45 AM, 'Location':I-71, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':Jul 18, 1999 04:00 PM, 'Location':Reading Road, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 24, 1999 03:35 AM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':Jul 30, 1999 02:53 AM, 'Location':Spring Grove  Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 29, 1999 08:00 AM, 'Location':I-74, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Jul 30, 1999 10:15 PM, 'Location':Red Bank Road, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Sep 7, 1999 10:14 AM, 'Location':Northwood Drive, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Sep 25, 1999 02:39 AM, 'Location':Trenton Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 18, 1999 02:20 AM, 'Location':Linn    St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':Sep 25, 1999 09:22 AM, 'Location':I-71, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 4, 1999 04:35 PM, 'Location':Ashland   Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 15, 1999 02:42 PM, 'Location':Colberain Av, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Dec 6, 1999 08:50 AM, 'Location':W-6th    St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 31, 1999 11:23 AM, 'Location':River Road, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 8, 1998 01:57 PM, 'Location':Hutchins Place, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Mar 6, 1998 03:52 PM, 'Location':River Road, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Apr 5, 1998 04:00 AM, 'Location':Glenview Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 22, 1998 03:30 PM, 'Location':Epworth Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':2, 'Persons':2, 'Pedestrians':-}
+{'Data':May 11, 1998 00:30 AM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jun 18, 1998 09:50 PM, 'Location':W Mcmicken Ave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 30, 1998 03:12 AM, 'Location':William-Howard-Tafro, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Mar 18, 1998 10:45 PM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 23, 1998 03:23 PM, 'Location':Kennedy Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Mar 14, 1998 00:01 AM, 'Location':I-75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Aug 31, 1998 02:00 PM, 'Location':Central Parkway, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Oct 20, 1998 09:10 AM, 'Location':Queen City Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 23, 1998 00:02 AM, 'Location':Edwards   Ro, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 3, 1998 02:47 PM, 'Location':Lincoln Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':1}
+{'Data':May 30, 1998 09:55 AM, 'Location':Kenwood   Ro, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Nov 25, 1998 11:25 PM, 'Location':E 4th St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Dec 7, 1998 04:10 PM, 'Location':Hamilton Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Mar 10, 1998 10:45 AM, 'Location':Boudinot   Av, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jan 5, 1997 01:40 AM, 'Location':W Pete Ros, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jan 14, 1997 08:00 AM, 'Location':Este Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':3, 'Persons':5, 'Pedestrians':-}
+{'Data':Feb 3, 1997 09:05 PM, 'Location':Winton Ro, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jan 2, 1997 04:28 AM, 'Location':W/Fork Ro, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 2, 1997 11:50 PM, 'Location':Red/Bank, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 14, 1997 11:44 AM, 'Location':Beekman St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':May 25, 1997 08:00 AM, 'Location':Columbiapa, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 28, 1997 11:00 PM, 'Location':Mitchellav, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 15, 1997 07:29 PM, 'Location':Central, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':May 10, 1997 05:43 PM, 'Location':Beechmonav, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 18, 1997 04:52 PM, 'Location':I75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':May 22, 1997 04:00 PM, 'Location':Gilbert Av, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Aug 27, 1997 01:09 AM, 'Location':Butler St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':2, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 15, 1997 06:15 PM, 'Location':Beechmont, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 10, 1997 09:06 PM, 'Location':Winneste, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':May 5, 1997 08:37 AM, 'Location':Brothertro, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 11, 1997 11:42 PM, 'Location':Auburn Av, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':1}
+{'Data':Jul 23, 1997 00:20 AM, 'Location':Columbiapa, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Aug 5, 1997 09:40 AM, 'Location':W/North Ro, 'Vehicles':4, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Jul 3, 1997 09:35 AM, 'Location':Queen C Av, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 22, 1997 03:09 PM, 'Location':W 12th St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':3}
+{'Data':Jul 26, 1997 02:54 AM, 'Location':Beekman St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 9, 1997 09:27 PM, 'Location':E Peterose, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 30, 1997 07:20 AM, 'Location':Queen Ciav, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 19, 1997 11:34 PM, 'Location':6th  St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 3, 1996 06:35 PM, 'Location':Colerainav, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':1}
+{'Data':Mar 29, 1996 05:08 PM, 'Location':Mitchellav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Feb 4, 1996 01:08 PM, 'Location':William Ho, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':Apr 7, 1996 11:06 PM, 'Location':I75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 20, 1996 11:25 PM, 'Location':I74, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 12, 1996 09:27 AM, 'Location':Camargo Ro, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Mar 15, 1996 11:38 AM, 'Location':Eileen Dr, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':May 21, 1996 02:30 AM, 'Location':Central Pa, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 18, 1996 10:20 AM, 'Location':Victory Pa, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 5, 1996 01:15 PM, 'Location':Eastern Av, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 15, 1996 02:22 AM, 'Location':Reading Ro, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 15, 1996 01:43 AM, 'Location':I71, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 6, 1996 01:58 AM, 'Location':Queen City, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 31, 1996 05:07 PM, 'Location':Glenway Av, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':9, 'Pedestrians':-}
+{'Data':Oct 2, 1996 10:55 AM, 'Location':Lester Ro, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 8, 1996 06:13 AM, 'Location':Boudinot, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Oct 13, 1996 12:55 AM, 'Location':Ambrose Av, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Nov 15, 1996 04:38 PM, 'Location':Reading Ro, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jul 29, 1996 02:40 PM, 'Location':Eastern Av, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 19, 1995 08:00 AM, 'Location':Victory Pa, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':May 2, 1995 07:00 PM, 'Location':Westwood, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':2}
+{'Data':May 12, 1995 05:50 AM, 'Location':Columbia, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 8, 1995 04:25 AM, 'Location':I 71, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 1, 1995 10:03 AM, 'Location':Este Ave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jan 19, 1995 05:00 AM, 'Location':Hillsideav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':2, 'Persons':4, 'Pedestrians':-}
+{'Data':Feb 13, 1995 07:20 PM, 'Location':I75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jun 10, 1995 00:35 AM, 'Location':Delta Ave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 18, 1995 01:55 AM, 'Location':Suspension, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 22, 1995 09:25 PM, 'Location':W Mcmicken, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':May 27, 1995 06:45 PM, 'Location':Thill St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Jun 8, 1995 01:05 PM, 'Location':I71, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Mar 31, 1995 04:30 PM, 'Location':River Ro, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':Apr 12, 1995 02:20 AM, 'Location':I 75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 30, 1995 05:40 AM, 'Location':River Road, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 14, 1995 06:05 PM, 'Location':W Court St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 30, 1995 05:10 PM, 'Location':Wooster Ro, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 14, 1995 10:45 PM, 'Location':Rockdaleav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':1}
+{'Data':Aug 11, 1995 02:01 PM, 'Location':Delta Av, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Aug 22, 1995 01:25 PM, 'Location':Queen City, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 2, 1995 04:20 PM, 'Location':Glenway Av, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Sep 8, 1995 11:30 AM, 'Location':Auburn Av, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':11, 'Pedestrians':-}
+{'Data':Sep 4, 1995 00:28 AM, 'Location':Spring Gav, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 24, 1995 02:35 AM, 'Location':I71, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 12, 1995 01:55 AM, 'Location':Vine St, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Nov 20, 1995 01:05 AM, 'Location':W H Taftro, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Nov 25, 1995 02:55 AM, 'Location':Forest Av, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 8, 1995 07:05 AM, 'Location':Reading Ro, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Apr 21, 1994 06:42 AM, 'Location':Eastern Av, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 2, 1994 01:10 AM, 'Location':Springgrov, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jan 18, 1994 03:12 PM, 'Location':Reading Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Apr 26, 1994 09:10 AM, 'Location':Ir75, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':Feb 19, 1994 11:55 PM, 'Location':Sutton Av, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 20, 1994 11:55 PM, 'Location':I 75, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':8, 'Pedestrians':-}
+{'Data':May 2, 1994 04:30 PM, 'Location':Ir471, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 28, 1994 02:00 PM, 'Location':I 41, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 30, 1994 11:20 PM, 'Location':Reading, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jun 25, 1994 10:30 PM, 'Location':Sutter Av, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jun 2, 1994 05:30 PM, 'Location':Ir75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 15, 1994 00:50 AM, 'Location':Rosslyn Dr, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Aug 6, 1994 03:45 AM, 'Location':Kelloggave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':2, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 5, 1994 04:28 AM, 'Location':Ir 75, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':2, 'Persons':3, 'Pedestrians':-}
+{'Data':Jun 11, 1994 07:30 PM, 'Location':Gracelanav, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 16, 1994 00:38 AM, 'Location':Beekman St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 18, 1994 04:02 PM, 'Location':Harrisonav, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':2, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 29, 1994 11:20 PM, 'Location':River Road, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Oct 17, 1994 01:00 PM, 'Location':Beechmont, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Nov 5, 1994 05:55 PM, 'Location':River Ro, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':Aug 27, 1994 07:10 PM, 'Location':Elberon Av, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Oct 16, 1994 01:12 AM, 'Location':I 74, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':Nov 15, 1994 06:20 PM, 'Location':Colerainav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Dec 21, 1994 06:15 PM, 'Location':Hamiltonav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Dec 27, 1994 02:00 AM, 'Location':Fredoniaav, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 28, 1994 07:05 AM, 'Location':Kellogg Av, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 31, 1994 06:45 AM, 'Location':Queen Ciav, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 27, 1994 02:10 PM, 'Location':River Rd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Jan 3, 1993 01:45 AM, 'Location':I74, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jan 18, 1993 01:05 AM, 'Location':Wmhtaftrd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 8, 1993 07:02 PM, 'Location':Glenwayav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Apr 2, 1993 12:40 AM, 'Location':Stantonave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Mar 31, 1993 11:10 AM, 'Location':Queencity, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Mar 14, 1993 10:39 AM, 'Location':Erie St, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Apr 24, 1993 01:16 AM, 'Location':Carll St, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':2, 'Persons':5, 'Pedestrians':-}
+{'Data':May 16, 1993 10:40 AM, 'Location':Walnut St, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':May 28, 1993 05:31 PM, 'Location':Wardell Av, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jun 19, 1993 07:55 PM, 'Location':I471, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 13, 1993 01:35 AM, 'Location':Centtral, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 22, 1993 12:00 AM, 'Location':Jefferson, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Aug 11, 1993 10:45 PM, 'Location':Mehring, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 9, 1993 09:25 PM, 'Location':I75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Aug 1, 1993 03:08 AM, 'Location':Chaseav, 'Vehicles':4, 'Drunken persons':1, 'Fatalites':1, 'Persons':7, 'Pedestrians':-}
+{'Data':Oct 22, 1993 02:25 PM, 'Location':I74, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 25, 1993 09:09 PM, 'Location':I75, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':1}
+{'Data':Oct 17, 1993 08:39 PM, 'Location':Montanaave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':1}
+{'Data':Nov 3, 1993 06:55 PM, 'Location':Vinestreet, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Nov 28, 1993 09:43 AM, 'Location':Montgomery, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 8, 1993 09:28 AM, 'Location':Glenwayave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':2}
+{'Data':Dec 12, 1993 09:20 AM, 'Location':Riverroad, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 3, 1993 05:34 PM, 'Location':Hamiltonav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Dec 30, 1993 07:45 PM, 'Location':Daltonst, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jan 1, 1992 08:20 AM, 'Location':Montgomery, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Feb 26, 1992 01:08 PM, 'Location':Gracelydr, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Feb 25, 1992 11:30 PM, 'Location':Rapidrun, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 10, 1992 04:23 PM, 'Location':Hamiltonav, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Apr 2, 1992 09:35 PM, 'Location':Fergusonrd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 7, 1992 06:55 PM, 'Location':Madisonrd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Feb 8, 1992 03:35 AM, 'Location':Cumminsst, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Mar 5, 1992 03:39 PM, 'Location':Montanaave, 'Vehicles':4, 'Drunken persons':1, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':Mar 16, 1992 07:10 AM, 'Location':Winnesteav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Mar 19, 1992 11:13 PM, 'Location':Riverroad, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Apr 12, 1992 00:40 AM, 'Location':Centerhill, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 7, 1992 11:25 PM, 'Location':I75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':May 3, 1992 04:59 PM, 'Location':Westwood, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 1, 1992 04:57 PM, 'Location':Grayrd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 18, 1992 07:24 PM, 'Location':Ludlowav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jul 12, 1992 11:09 PM, 'Location':Hamiltonav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jul 14, 1992 11:30 PM, 'Location':Glenwayave, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Aug 15, 1992 02:00 AM, 'Location':Riverroad, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':3, 'Persons':4, 'Pedestrians':-}
+{'Data':Jun 28, 1992 02:09 PM, 'Location':Colerainav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Sep 8, 1992 06:05 AM, 'Location':I71, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 6, 1992 02:35 AM, 'Location':Warsawav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':3}
+{'Data':Jul 2, 1992 05:40 AM, 'Location':I75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Sep 2, 1992 10:30 AM, 'Location':Beechmont, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 9, 1992 00:30 AM, 'Location':I75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Oct 20, 1992 09:00 PM, 'Location':Columbiapa, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Nov 19, 1992 11:35 PM, 'Location':Kirbyrd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Nov 21, 1992 03:05 AM, 'Location':Riverroad, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Oct 29, 1992 01:25 AM, 'Location':Queencity, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 25, 1992 01:25 AM, 'Location':Emcmillan, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Mar 13, 1991 11:23 PM, 'Location':Readingrd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Feb 23, 1991 11:25 AM, 'Location':I75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 29, 1991 10:12 AM, 'Location':Colerainav, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':May 20, 1991 06:20 AM, 'Location':Overlookav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 27, 1991 06:14 PM, 'Location':I71, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jul 9, 1991 07:00 PM, 'Location':Emitchell, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':May 24, 1991 09:05 AM, 'Location':264, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jul 12, 1991 05:30 PM, 'Location':I71, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':Jul 14, 1991 03:20 AM, 'Location':I75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':2, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 3, 1991 10:08 AM, 'Location':Lafayette, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 19, 1991 03:03 PM, 'Location':Vinestreet, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Jul 10, 1991 08:20 AM, 'Location':Wintonrd, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':Jul 28, 1991 10:45 PM, 'Location':Ncrescent, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 23, 1991 01:27 AM, 'Location':Langdonfar, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':2, 'Persons':3, 'Pedestrians':-}
+{'Data':Aug 1, 1991 03:06 PM, 'Location':Langdonfar, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':2, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 21, 1991 11:22 AM, 'Location':I75, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':1}
+{'Data':Aug 21, 1991 10:45 AM, 'Location':Beechmont, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Aug 31, 1991 10:20 PM, 'Location':I75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':1}
+{'Data':Sep 13, 1991 03:05 AM, 'Location':I75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Aug 29, 1991 08:33 PM, 'Location':Sedamst, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Aug 30, 1991 04:35 PM, 'Location':Walnutst, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Sep 21, 1991 04:40 AM, 'Location':Grandave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 29, 1991 09:06 PM, 'Location':Hamiltonav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':1}
+{'Data':Jan 24, 1990 05:55 AM, 'Location':I71, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 8, 1990 02:05 PM, 'Location':Cumminsstr, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Mar 3, 1990 02:15 AM, 'Location':Easternave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 14, 1990 12:25 AM, 'Location':Madisonrd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 9, 1990 10:10 PM, 'Location':Harveyave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 29, 1990 07:54 AM, 'Location':Wunderaven, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Apr 16, 1990 10:44 PM, 'Location':Fortwashin, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Apr 20, 1990 06:40 AM, 'Location':Madisonave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 6, 1990 08:25 AM, 'Location':Wilbertyst, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':May 14, 1990 06:00 PM, 'Location':Westwoodno, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Aug 9, 1990 09:18 AM, 'Location':Kelloggave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 11, 1990 06:06 PM, 'Location':Riverroad, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':2, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 18, 1990 00:50 AM, 'Location':3240spring, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 21, 1990 00:15 AM, 'Location':Saffinav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 30, 1990 03:45 PM, 'Location':Westwoodav, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 14, 1990 10:44 AM, 'Location':Dalyroad, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 25, 1990 01:49 PM, 'Location':I75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 8, 1990 02:55 AM, 'Location':Hillside, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 20, 1990 09:58 PM, 'Location':Springgrov, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':9, 'Pedestrians':-}
+{'Data':Oct 26, 1990 02:40 PM, 'Location':Glenarmand, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jan 14, 1989 09:20 AM, 'Location':260fairbks, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Feb 14, 1989 08:00 AM, 'Location':2701nbend, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 4, 1989 08:37 AM, 'Location':4046victor, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 13, 1989 05:38 AM, 'Location':7127river, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 15, 1989 02:51 AM, 'Location':I471, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 15, 1989 07:58 PM, 'Location':Easternave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':May 7, 1989 03:10 AM, 'Location':Beechmont, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':May 14, 1989 01:05 AM, 'Location':5101kellog, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':3, 'Persons':5, 'Pedestrians':-}
+{'Data':May 16, 1989 09:00 PM, 'Location':5359hamilt, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':May 19, 1989 05:23 AM, 'Location':Kingsrunrd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 27, 1989 07:35 PM, 'Location':Paddockrd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':May 30, 1989 10:13 PM, 'Location':I75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 18, 1989 03:55 PM, 'Location':I71, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 25, 1989 09:54 PM, 'Location':Warsaw, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Aug 16, 1989 05:29 AM, 'Location':Westwood, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 30, 1989 01:20 PM, 'Location':Easternave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 2, 1989 07:15 AM, 'Location':Kelloggave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Oct 1, 1989 05:35 PM, 'Location':Warsawaven, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':2, 'Persons':3, 'Pedestrians':-}
+{'Data':Dec 29, 1989 02:45 AM, 'Location':I75, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 30, 1989 00:45 AM, 'Location':Hamiltonav, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Oct 2, 1989 06:13 AM, 'Location':Martinluth, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 22, 1989 07:00 AM, 'Location':Springgrov, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 3, 1989 08:48 PM, 'Location':Queencitya, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':2, 'Persons':4, 'Pedestrians':-}
+{'Data':Sep 12, 1989 11:55 AM, 'Location':Losantivil, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 15, 1989 02:33 AM, 'Location':Vinestreet, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 20, 1989 02:15 AM, 'Location':Williamhow, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 22, 1989 07:50 PM, 'Location':Springgrov, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 13, 1989 02:35 AM, 'Location':I75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 23, 1989 06:22 AM, 'Location':Dalyroad, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Jan 7, 1988 04:25 PM, 'Location':1717readin, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 16, 1988 00:05 AM, 'Location':1800easter, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jan 17, 1988 07:15 PM, 'Location':75nb, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jan 20, 1988 08:39 PM, 'Location':2130fulton, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 11, 1988 07:30 PM, 'Location':1699westwd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Feb 15, 1988 08:30 PM, 'Location':Sb75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Mar 25, 1988 09:55 PM, 'Location':Eb74, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Mar 24, 1988 09:00 PM, 'Location':Grandave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 29, 1988 10:05 PM, 'Location':Sb75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 5, 1988 01:52 PM, 'Location':333oreadin, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 9, 1988 09:30 PM, 'Location':Madisonrd, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Apr 19, 1988 05:25 PM, 'Location':546forest, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 26, 1988 06:15 PM, 'Location':1655easter, 'Vehicles':2, 'Drunken persons':2, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':May 6, 1988 02:20 PM, 'Location':1845duck, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':May 10, 1988 07:38 PM, 'Location':320w7thst, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Apr 30, 1988 09:20 AM, 'Location':2215bright, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 11, 1988 05:50 PM, 'Location':Calhounst, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':May 13, 1988 02:55 PM, 'Location':268fairban, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':May 14, 1988 02:50 PM, 'Location':2133centra, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 28, 1988 03:25 PM, 'Location':2225quebec, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 12, 1988 12:05 AM, 'Location':268wnbend, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 10, 1988 05:25 PM, 'Location':75sb, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 25, 1988 02:09 PM, 'Location':Wgalbraith, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Jul 25, 1988 06:10 AM, 'Location':S75, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 16, 1988 10:30 PM, 'Location':2727clifto, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Aug 3, 1988 10:55 PM, 'Location':Broadway, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Aug 15, 1988 10:05 PM, 'Location':2495boudin, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Aug 21, 1988 11:40 PM, 'Location':4000columb, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':May 8, 1988 01:42 AM, 'Location':7779anthon, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 5, 1988 00:19 AM, 'Location':4911winnes, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Oct 2, 1988 05:20 PM, 'Location':1579montan, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 24, 1988 05:40 PM, 'Location':7821reedin, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 3, 1988 03:15 PM, 'Location':2206quebec, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 23, 1988 02:55 AM, 'Location':4446colera, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 16, 1988 07:20 AM, 'Location':Hamilton, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 3, 1987 06:35 PM, 'Location':Nbendroad, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Apr 4, 1987 03:00 PM, 'Location':Centralpky, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':May 2, 1987 07:50 AM, 'Location':Colerain, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':May 15, 1987 08:22 PM, 'Location':570rosemon, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':May 19, 1987 03:15 PM, 'Location':Riverroad, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 6, 1987 03:46 PM, 'Location':561, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 6, 1987 01:58 PM, 'Location':Colerain, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jun 9, 1987 11:30 AM, 'Location':75nb, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':2, 'Persons':3, 'Pedestrians':-}
+{'Data':Jun 14, 1987 01:35 AM, 'Location':3449chevio, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 24, 1987 00:56 AM, 'Location':2750centra, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 29, 1987 01:14 AM, 'Location':4667colera, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 14, 1987 10:30 PM, 'Location':2629harris, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Aug 16, 1987 01:30 PM, 'Location':2135readin, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 17, 1987 11:37 AM, 'Location':1602mainst, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 1, 1987 10:09 AM, 'Location':75nbramp, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 15, 1987 01:40 AM, 'Location':Nb71, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 28, 1987 06:20 PM, 'Location':7417readin, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 1, 1987 10:45 PM, 'Location':Columbia, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 22, 1987 11:05 PM, 'Location':0bservator, 'Vehicles':2, 'Drunken persons':2, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Nov 22, 1987 00:55 AM, 'Location':74, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Oct 6, 1987 12:55 AM, 'Location':Colerain, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Oct 10, 1987 06:20 PM, 'Location':Victorypk, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 19, 1987 06:40 AM, 'Location':Centerhill, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 2, 1987 05:27 PM, 'Location':Tennessee, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Nov 16, 1987 06:05 PM, 'Location':75nb, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Nov 27, 1987 10:20 PM, 'Location':Columbiapk, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Dec 8, 1987 02:48 AM, 'Location':2022queen, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 8, 1987 11:50 AM, 'Location':5400hamilt, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 11, 1987 03:25 AM, 'Location':1800easter, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 19, 1987 04:50 PM, 'Location':3999beechm, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Jan 17, 1986 02:05 AM, 'Location':74eb, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jan 15, 1986 12:02 AM, 'Location':2025madiso, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 5, 1986 11:35 PM, 'Location':1674chase, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Mar 20, 1986 12:07 AM, 'Location':75nb, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 16, 1986 03:15 AM, 'Location':75south, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 16, 1986 10:40 PM, 'Location':4538kirby, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Feb 17, 1986 05:35 PM, 'Location':777dutchco, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Feb 20, 1986 11:45 PM, 'Location':Baltimore, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Feb 23, 1986 11:55 PM, 'Location':6060center, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 1, 1986 08:30 PM, 'Location':640w6thst, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 2, 1986 10:10 PM, 'Location':939stateav, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 14, 1986 02:45 AM, 'Location':Victorypky, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 20, 1986 04:55 PM, 'Location':Easternave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 1, 1986 06:10 AM, 'Location':Sb71ramp, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 1, 1986 05:27 PM, 'Location':18boltwood, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 27, 1986 06:40 AM, 'Location':Sb71, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 22, 1986 07:20 PM, 'Location':Mchenryave, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 2, 1986 05:00 AM, 'Location':3577heekin, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 24, 1986 06:40 AM, 'Location':2901queen, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 27, 1986 03:10 AM, 'Location':75sb, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 28, 1986 01:00 AM, 'Location':Colerain, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 10, 1986 07:30 PM, 'Location':N75, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Aug 24, 1986 02:49 AM, 'Location':6301ridge, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 16, 1986 08:06 AM, 'Location':9150spring, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Sep 27, 1986 05:28 PM, 'Location':3591linwoo, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':2, 'Persons':5, 'Pedestrians':-}
+{'Data':Oct 3, 1986 09:30 AM, 'Location':Montanaave, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 5, 1986 12:45 AM, 'Location':5400glenwa, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 27, 1986 08:13 AM, 'Location':2387montan, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Nov 15, 1986 05:00 PM, 'Location':2275kiplin, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Nov 1, 1986 01:47 AM, 'Location':Nb75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 5, 1986 07:11 PM, 'Location':Nb75, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':3, 'Persons':7, 'Pedestrians':-}
+{'Data':Nov 1, 1986 04:25 PM, 'Location':East6thst, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 14, 1985 10:40 PM, 'Location':Springgrov, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Feb 15, 1985 10:20 PM, 'Location':Reading Rd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 16, 1985 09:35 PM, 'Location':River Road, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':7, 'Pedestrians':-}
+{'Data':Feb 9, 1985 12:20 AM, 'Location':Terrace, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Mar 24, 1985 01:45 AM, 'Location':745 Delta, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 28, 1985 11:38 PM, 'Location':6612bantry, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 20, 1985 02:00 AM, 'Location':Glenway, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 22, 1985 03:40 PM, 'Location':3694 Vine, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 23, 1985 01:14 PM, 'Location':Red Bank, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Apr 18, 1985 00:30 AM, 'Location':8312 Burns, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Apr 27, 1985 11:04 PM, 'Location':75 South, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':May 25, 1985 03:41 PM, 'Location':York St, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 1, 1985 11:22 PM, 'Location':74 Wb, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 5, 1985 00:05 AM, 'Location':Southside, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jul 6, 1985 00:35 AM, 'Location':Langdonfar, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':May 25, 1985 00:30 AM, 'Location':Kelloggave, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':2, 'Persons':5, 'Pedestrians':-}
+{'Data':Aug 17, 1985 06:00 PM, 'Location':Lafayette, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 21, 1985 02:25 AM, 'Location':5845kellog, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Aug 22, 1985 02:17 AM, 'Location':430kingsru, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 5, 1985 01:05 AM, 'Location':260 Wilmer, 'Vehicles':2, 'Drunken persons':2, 'Fatalites':2, 'Persons':4, 'Pedestrians':-}
+{'Data':Oct 7, 1985 06:15 AM, 'Location':Westwood N, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Oct 11, 1985 10:40 PM, 'Location':Guerley Rd, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Oct 30, 1985 02:10 AM, 'Location':4851river, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 5, 1985 11:02 AM, 'Location':Erieavenue, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 18, 1985 11:00 PM, 'Location':1100ludlow, 'Vehicles':4, 'Drunken persons':1, 'Fatalites':1, 'Persons':17, 'Pedestrians':-}
+{'Data':Dec 24, 1985 12:30 AM, 'Location':3691erie, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Dec 24, 1985 02:40 AM, 'Location':4820river, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 31, 1985 11:45 PM, 'Location':2499elberd, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':6, 'Pedestrians':-}
+{'Data':Dec 1, 1985 03:25 AM, 'Location':71s, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':3, 'Persons':5, 'Pedestrians':-}
+{'Data':Sep 29, 1985 09:27 AM, 'Location':3100burnet, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':11, 'Pedestrians':-}
+{'Data':Jun 1, 1985 09:30 PM, 'Location':6467dalyrd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 11, 1985 04:40 PM, 'Location':148forest, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Nov 1, 1985 07:36 AM, 'Location':Fergusonrd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 6, 1984 02:20 PM, 'Location':W Court, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 10, 1984 10:20 AM, 'Location':75s, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Feb 17, 1984 04:58 PM, 'Location':Beechmont, 'Vehicles':3, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Feb 23, 1984 11:45 AM, 'Location':Edwards Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 2, 1984 06:50 PM, 'Location':Elberon, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 4, 1984 04:20 AM, 'Location':Westwood, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':May 7, 1984 06:36 PM, 'Location':River, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 12, 1984 03:17 AM, 'Location':75s, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 20, 1984 04:45 AM, 'Location':Duck Creek, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 17, 1984 05:10 PM, 'Location':W Fork, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 27, 1984 07:03 AM, 'Location':Langdonfar, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 29, 1984 03:40 AM, 'Location':Ridge, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 14, 1984 06:20 PM, 'Location':4, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 13, 1984 12:13 AM, 'Location':75, 'Vehicles':5, 'Drunken persons':-, 'Fatalites':1, 'Persons':7, 'Pedestrians':-}
+{'Data':Aug 23, 1984 12:15 AM, 'Location':Clintonspr, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 26, 1984 02:25 AM, 'Location':Queen City, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Sep 13, 1984 08:18 PM, 'Location':Kessler, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 20, 1984 07:30 PM, 'Location':Hutchins, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 9, 1984 06:30 PM, 'Location':Madison, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 21, 1984 06:30 AM, 'Location':42, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 20, 1984 04:40 PM, 'Location':Indianhill, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Dec 6, 1984 02:10 PM, 'Location':I 75 Sb, 'Vehicles':5, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Dec 7, 1984 03:38 PM, 'Location':Reading Rd, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 17, 1984 02:05 AM, 'Location':Fairbanks, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 20, 1984 02:15 AM, 'Location':President, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 23, 1984 09:47 PM, 'Location':I 75 Sb, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Dec 24, 1984 06:05 PM, 'Location':50, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 3, 1983 10:10 PM, 'Location':Epworth, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jan 22, 1983 07:55 PM, 'Location':75s, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 10, 1983 06:15 PM, 'Location':Duckcreek, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 22, 1983 01:50 PM, 'Location':Eastern, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Feb 23, 1983 07:50 AM, 'Location':Lehman, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Mar 1, 1983 01:52 PM, 'Location':Race, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 8, 1983 05:28 PM, 'Location':Reading, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 12, 1983 11:30 AM, 'Location':71n, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Mar 20, 1983 02:45 AM, 'Location':Kellogg, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 27, 1983 02:14 AM, 'Location':Reading, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 2, 1983 08:56 AM, 'Location':Reading, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':May 1, 1983 09:45 PM, 'Location':75s, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 15, 1983 07:50 PM, 'Location':Columbia, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':May 1, 1983 11:10 AM, 'Location':Queencity, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jun 17, 1983 05:45 PM, 'Location':Queencity, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 21, 1983 11:40 PM, 'Location':Reading, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Jul 24, 1983 09:58 PM, 'Location':Seton, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 15, 1983 04:45 PM, 'Location':Seymour, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 16, 1983 07:00 AM, 'Location':Columbia, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':11, 'Pedestrians':-}
+{'Data':Sep 20, 1983 10:50 PM, 'Location':75n, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 19, 1983 08:25 PM, 'Location':Redbank, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Oct 31, 1983 12:05 AM, 'Location':Harvey, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Dec 2, 1983 05:50 PM, 'Location':Wmitchell, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Dec 6, 1983 08:30 PM, 'Location':Northbend, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Dec 13, 1983 06:30 PM, 'Location':Melish, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 16, 1983 07:38 AM, 'Location':W8th, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 20, 1983 05:45 PM, 'Location':Nbend, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Dec 22, 1983 07:00 PM, 'Location':River, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Aug 9, 1983 06:47 AM, 'Location':Highland, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jan 10, 1982 04:30 PM, 'Location':71w, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jan 22, 1982 01:10 AM, 'Location':Queencity, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jan 6, 1982 01:15 AM, 'Location':Springgrov, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Jan 31, 1982 08:46 PM, 'Location':Langdonfar, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Feb 3, 1982 05:20 PM, 'Location':Vine, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Feb 9, 1982 04:09 PM, 'Location':Beechmont, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Feb 23, 1982 04:45 PM, 'Location':Euniversit, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 3, 1982 00:03 AM, 'Location':Kellogg, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Mar 29, 1982 10:14 PM, 'Location':75s, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Apr 14, 1982 10:50 PM, 'Location':Warsaw, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Apr 24, 1982 00:32 AM, 'Location':Ridge, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Feb 11, 1982 07:29 PM, 'Location':Nixon, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':May 27, 1982 10:15 PM, 'Location':Colerain, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':May 27, 1982 00:15 AM, 'Location':Kellogg, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':May 31, 1982 02:15 AM, 'Location':Columbia, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 16, 1982 12:55 AM, 'Location':Reading, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jun 16, 1982 07:20 AM, 'Location':Kellogg, 'Vehicles':3, 'Drunken persons':1, 'Fatalites':1, 'Persons':4, 'Pedestrians':-}
+{'Data':Jun 14, 1982 04:24 PM, 'Location':75n, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Jun 21, 1982 07:15 PM, 'Location':Westwoodno, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jun 19, 1982 06:45 PM, 'Location':Ridge S, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 17, 1982 02:05 AM, 'Location':Kipling, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Jul 19, 1982 08:37 AM, 'Location':Elberon, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':7, 'Pedestrians':-}
+{'Data':Jul 20, 1982 08:00 AM, 'Location':Kellogg, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Jul 16, 1982 02:50 AM, 'Location':Martin, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Sep 2, 1982 02:08 AM, 'Location':75s, 'Vehicles':2, 'Drunken persons':2, 'Fatalites':2, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 8, 1982 11:35 PM, 'Location':River, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Sep 12, 1982 05:40 PM, 'Location':Hamilton, 'Vehicles':3, 'Drunken persons':-, 'Fatalites':1, 'Persons':5, 'Pedestrians':-}
+{'Data':Sep 3, 1982 10:00 PM, 'Location':12, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Sep 15, 1982 00:15 AM, 'Location':Vine, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Oct 2, 1982 03:30 AM, 'Location':River, 'Vehicles':2, 'Drunken persons':1, 'Fatalites':2, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 3, 1982 02:05 AM, 'Location':75n, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Oct 4, 1982 03:23 AM, 'Location':74e, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Oct 16, 1982 05:00 PM, 'Location':State, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':1, 'Pedestrians':-}
+{'Data':Nov 5, 1982 06:40 PM, 'Location':Glenway, 'Vehicles':1, 'Drunken persons':1, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Nov 6, 1982 09:09 PM, 'Location':Glenway, 'Vehicles':2, 'Drunken persons':-, 'Fatalites':1, 'Persons':3, 'Pedestrians':-}
+{'Data':Oct 31, 1982 03:20 AM, 'Location':Baltimore, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
+{'Data':Dec 10, 1982 05:45 PM, 'Location':Victory, 'Vehicles':1, 'Drunken persons':-, 'Fatalites':1, 'Persons':2, 'Pedestrians':-}
